@@ -1,0 +1,1 @@
+export default function ValuesPage() { return <div className="py-8"><h1 className="text-3xl font-bold mb-4">價值觀</h1><p>這裡將顯示我的價值觀...</p></div> }

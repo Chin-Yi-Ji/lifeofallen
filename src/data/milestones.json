@@ -1,0 +1,42 @@
+﻿[
+  {
+    "id": "2024-10-keynote",
+    "date": "2024-10-20",
+    "group": "career",
+    "title": "Keynote（示意）",
+    "summary": "摘要（示意）",
+    "links": []
+  },
+  {
+    "id": "2024-09-promotion",
+    "date": "2024-09-15",
+    "group": "career",
+    "title": "晉升為資深產品經理",
+    "summary": "成功晉升為資深產品經理，負責公司核心產品線",
+    "links": []
+  },
+  {
+    "id": "2024-08-certification",
+    "date": "2024-08-10",
+    "group": "learning",
+    "title": "獲得 AWS 解決方案架構師認證",
+    "summary": "完成 AWS 解決方案架構師專業認證考試",
+    "links": []
+  },
+  {
+    "id": "2024-07-project-launch",
+    "date": "2024-07-01",
+    "group": "career",
+    "title": "AI 產品成功上線",
+    "summary": "帶領團隊完成 AI 醫療診斷系統的開發與上線",
+    "links": []
+  },
+  {
+    "id": "2024-06-conference",
+    "date": "2024-06-15",
+    "group": "community",
+    "title": "產品管理大會演講",
+    "summary": "在年度產品管理大會上分享 AI 產品開發經驗",
+    "links": []
+  }
+]

@@ -1,0 +1,1 @@
+export default function InterestsPage() { return <div className="py-8"><h1 className="text-3xl font-bold mb-4">興趣</h1><p>這裡將顯示我的興趣...</p></div> }
